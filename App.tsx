@@ -53,7 +53,7 @@ const App: React.FC = () => {
         <h1 className="text-3xl md:text-4xl font-black text-stone-800 mb-2 tracking-widest font-serif">
           運勢試し
         </h1>
-        <p className="text-stone-500 text-sm font-serif">今日の運勢を占ってみましょう</p>
+        <p className="text-stone-500 text-sm font-serif">今日、あるいは今年の運勢を占ってみましょう</p>
       </header>
 
       <main className="z-10 w-full max-w-2xl flex flex-col items-center justify-center min-h-[500px]">
